@@ -8,7 +8,6 @@
  * paravirt and debugging variants are added.)
  */
 #undef CONFIG_PARAVIRT
-#undef CONFIG_KASAN
 #undef CONFIG_PARAVIRT_SPINLOCKS
 
 #include <linux/linkage.h>
